@@ -24,7 +24,6 @@ img {
   width: 100%;
 }
 
-
 #loader {
   display: flex;
   justify-content: center;
@@ -152,8 +151,6 @@ footer {
 
 
 /************    column utilities    ************/
-
-
 .col {
   float: left;
   padding: 15px;
@@ -261,8 +258,6 @@ footer {
   background-color: red;
   margin: 10px 10px;
   height: 100px;
-  /* min-width: 100px; */
-
 }
 
 .box2{
